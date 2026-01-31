@@ -2,8 +2,6 @@ import { Link, Navigate, useParams } from "react-router-dom";
 import { motion } from "framer-motion";
 import {
   FaCode,
-  FaMobileAlt,
-  FaLink,
   FaChartLine,
   FaRobot,
   FaCheck,
@@ -16,9 +14,7 @@ import {
 } from "react-icons/fa";
 import {
   SiReact,
-  SiNodeDotJs,
   SiEthereum,
-  SiPython,
   SiTensorflow,
 } from "react-icons/si";
 import { serviceDetailsList } from "../content/services";
