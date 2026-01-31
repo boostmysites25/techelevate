@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { FaCalendarAlt, FaArrowLeft } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { blogs } from "../content/blogs";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 
 const BlogDetails = () => {
   const { slug } = useParams();
