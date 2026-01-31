@@ -11,6 +11,7 @@ import LandingPageLayout from "./components/landingpage/Layout";
 import { Toaster } from "react-hot-toast";
 import { HelmetProvider } from "react-helmet-async";
 
+
 const Home = lazy(() => import("./pages/Home"));
 const Layout = lazy(() => import("./components/website/Layout"));
 const AboutUs = lazy(() => import("./pages/AboutUs"));
