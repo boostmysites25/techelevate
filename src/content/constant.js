@@ -3,9 +3,9 @@ import logo from "../assets/images/logo/logo.png";
 export { logo };
 
 export const companyDetails = {
-  phone: "+91-1234567890",
-  email: "example@Tech Elevate.com",
-  address: "#123, ABC Street, XYZ City, Pincode: 123456",
+  phone: "+91-9451883800",
+  email: "aimanashraf@teachelevateai.co.in",
+  address: "Plot 13, Gomti Vihar, Kanchanpur, Matiyari, Lucknow, Uttar Pradesh 226028",
   facebook: "",
   twitter: "",
   instagram: "",
